@@ -21,10 +21,6 @@ body {
     transition: 0.8s;
 }
 
-.logo:hover {
-    width: 55px;
-}
-
 header {
     box-sizing: border-box;
 
@@ -66,7 +62,7 @@ header ul a {
 }
 
 header ul a:hover {
-    color: rgb(39, 36, 36);
+    color: white;
 }
 
 .download-btn1 {
@@ -83,8 +79,9 @@ header ul a:hover {
 
 .download-btn1:hover {
     background: var(--clr);
-    letter-spacing: 0.25em;
-    box-shadow: 0 0 35px var(--clr);
+/*     letter-spacing: 0.25em;
+    box-shadow: 0 0 35px var(--clr); */
+    
 }
 
 .downlode-btn2 {
@@ -102,8 +99,8 @@ header ul a:hover {
 
 .downlode-btn2:hover {
     background: var(--clr);
-    letter-spacing: 0.25em;
-    box-shadow: 0 0 35px var(--clr);
+/*     letter-spacing: 0.25em;
+    box-shadow: 0 0 35px var(--clr); */
 }
 
 .heading {
