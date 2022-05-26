@@ -15,7 +15,7 @@ body {
 /* || INTRO PAGE || */
 
 .logo {
-    width: 50px;
+    width: 45px;
     margin-left: 230px;
     cursor: pointer;
     transition: 0.8s;
@@ -74,15 +74,14 @@ header ul a:hover {
     border: solid blue 1px;
     border-radius: 20px;
     letter-spacing: 0.1em;
-    color: white;
     transition: 0.5s;
+    color: white;
 }
 
 .download-btn1:hover {
     background: var(--clr);
-/*     letter-spacing: 0.25em;
-    box-shadow: 0 0 35px var(--clr); */
-    
+    /* letter-spacing: 0.25em; */
+    /* box-shadow: 0 0 35px var(--clr); */
 }
 
 .downlode-btn2 {
@@ -99,8 +98,8 @@ header ul a:hover {
 }
 
 .downlode-btn2:hover {
-    background: black;
-/*     letter-spacing: 0.25em;
+    background-color: black;
+    /* letter-spacing: 0.25em;
     box-shadow: 0 0 35px var(--clr); */
 }
 
